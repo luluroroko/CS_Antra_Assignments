@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{DB1F2F86-8191-49C5-8459-912295C4849D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DapperTutorialMarch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DapperTutorialMarch/Menu/Menu.cs">
+    <Files>
+      <File FileName="DapperTutorialMarch/Program.cs" Line="21" Column="1" />
+      <File FileName="DapperTutorialMarch/Menu/Menu.cs" Line="32" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DapperTutorialMarch" expanded="True">
+            <Node name="ApplicationCore" expanded="True">
+              <Node name="Contracts" expanded="True">
+                <Node name="Repositories" expanded="True" />
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="DapperTutorialMarch" expanded="True">
+              <Node name="Menu" expanded="True">
+                <Node name="Menu.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

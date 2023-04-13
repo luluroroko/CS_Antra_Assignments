@@ -1,0 +1,15 @@
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Users\Lynn\Documents\DapperTutorialMarch\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

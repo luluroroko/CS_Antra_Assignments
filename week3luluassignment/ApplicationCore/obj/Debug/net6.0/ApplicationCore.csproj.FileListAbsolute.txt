@@ -1,0 +1,12 @@
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\bin\Debug\net6.0\ApplicationCore.deps.json
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\obj\Debug\net6.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\obj\Debug\net6.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\obj\Debug\net6.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\obj\Debug\net6.0\ApplicationCore.dll
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\obj\Debug\net6.0\refint\ApplicationCore.dll
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\obj\Debug\net6.0\ApplicationCore.pdb
+C:\Users\Lynn\Documents\DapperTutorialMarch\ApplicationCore\obj\Debug\net6.0\ref\ApplicationCore.dll
