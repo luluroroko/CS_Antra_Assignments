@@ -1,0 +1,14 @@
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/bin/Debug/net6.0/ApplicationCore.deps.json
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/bin/Debug/net6.0/ApplicationCore.runtimeconfig.json
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/bin/Debug/net6.0/ApplicationCore.dll
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/bin/Debug/net6.0/ApplicationCore.pdb
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/obj/Debug/net6.0/ApplicationCore.csproj.AssemblyReference.cache
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/obj/Debug/net6.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/obj/Debug/net6.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/obj/Debug/net6.0/ApplicationCore.AssemblyInfo.cs
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/obj/Debug/net6.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/obj/Debug/net6.0/ApplicationCore.dll
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/obj/Debug/net6.0/refint/ApplicationCore.dll
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/obj/Debug/net6.0/ApplicationCore.pdb
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/obj/Debug/net6.0/ApplicationCore.genruntimeconfig.cache
+/Users/lulu/Desktop/antra/Week4HW/ApplicationCore/obj/Debug/net6.0/ref/ApplicationCore.dll

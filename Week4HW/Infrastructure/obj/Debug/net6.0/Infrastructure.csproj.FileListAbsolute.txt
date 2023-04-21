@@ -1,0 +1,17 @@
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/bin/Debug/net6.0/Infrastructure.deps.json
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/bin/Debug/net6.0/Infrastructure.runtimeconfig.json
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/bin/Debug/net6.0/Infrastructure.dll
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/bin/Debug/net6.0/Infrastructure.pdb
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/bin/Debug/net6.0/ApplicationCore.dll
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/bin/Debug/net6.0/ApplicationCore.pdb
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/obj/Debug/net6.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/obj/Debug/net6.0/Infrastructure.AssemblyInfo.cs
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/obj/Debug/net6.0/Infrastructure.csproj.CopyComplete
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/obj/Debug/net6.0/Infrastructure.dll
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/obj/Debug/net6.0/refint/Infrastructure.dll
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/obj/Debug/net6.0/Infrastructure.pdb
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/obj/Debug/net6.0/Infrastructure.genruntimeconfig.cache
+/Users/lulu/Desktop/antra/Week4HW/Infrastructure/obj/Debug/net6.0/ref/Infrastructure.dll
